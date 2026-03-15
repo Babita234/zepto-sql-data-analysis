@@ -1,4 +1,4 @@
-Zepto Inventory Data Analysis (SQL Project)
+##Zepto Inventory Data Analysis (SQL Project)
 
 This project performs end to end data analysis on Zepto e commerce inventory data using PostgreSQL. The objective is to explore product inventory information, clean the dataset, and extract meaningful business insights using SQL queries.
 
@@ -9,7 +9,9 @@ This project highlights practical SQL skills required for Data Analyst roles inc
 Tools Used
 
 • PostgreSQL
+
 • SQL
+
 • Microsoft Excel
 
 Dataset Description
@@ -127,6 +129,5 @@ images
 README.md
 
 Author
-
 Babita Kumari
 Aspiring Data Analyst
